@@ -33,3 +33,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=OlawaleJnr.OlawaleJnr)
+
+### Reach out to me here 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayomide-talabi-b713451a3/)](https://www.linkedin.com/in/ayomide-talabi-b713451a3/)
+
