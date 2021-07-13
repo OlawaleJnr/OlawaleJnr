@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Mide! I'm a Software Engineer 😀👋
+
+##### What I'm focusing on 👨‍💻
+
+I'm keen on improving my skills on Java and PHP: Java SE, JSP/Servlet, Laravel and Lumen Microservice.<br />
 
 <!--
 **OlawaleJnr/OlawaleJnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
