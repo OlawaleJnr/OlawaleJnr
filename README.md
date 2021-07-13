@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Talabi Ayomide's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlawaleJnr&count_private=true&&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlawaleJnr&langs_count=8 )](https://github.com/anuraghazra/github-readme-stats)
+
+
