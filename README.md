@@ -38,3 +38,4 @@ I'm keen on improving my skills on Java and PHP: Java SE, JSP/Servlet, Laravel a
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayomide-talabi-b713451a3/)](https://www.linkedin.com/in/ayomide-talabi-b713451a3/)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OlawaleJnr&" alt="Talabi Ayomide" /></p>
