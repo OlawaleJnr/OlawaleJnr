@@ -4,7 +4,7 @@
 
 I'm keen on improving my skills on Java and PHP: Java SE, JSP/Servlet, Laravel and Lumen Microservice.<br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OlawaleJnr" alt="Talabi Ayomide" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=OlawaleJnr" alt="Talabi Ayomide" /></p>
 
 - 🔭 I’m currently working on  **Advanced Prototyped School Management System**
 - 🌱 I’m currently learning  **Vue.js**
