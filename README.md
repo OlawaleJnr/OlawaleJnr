@@ -1,4 +1,4 @@
-### Hi there, I'm Mide! I'm a Software Engineer <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="18px">
+### Hi there, I'm Ayomide! I'm a Software Engineer <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="18px">
 
 ##### What I'm focusing on 👨‍💻
 
