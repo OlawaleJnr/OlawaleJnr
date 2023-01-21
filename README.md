@@ -1,4 +1,4 @@
-<h4 align="center">Hi there, I'm Ayomide! I'm a Software Engineer <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="18px"></h4>
+<h4 align="center">Hi there, I'm Ayomide! I'm a Software Developer <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="18px"></h4>
 
 ##### What I'm focusing on 👨‍💻
 
