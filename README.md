@@ -19,9 +19,19 @@ I'm keen on improving my skills on Java and PHP: Java SE, JSP/Servlet, Laravel a
 </a>
 <br>
 
-![Talabi Ayomide's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlawaleJnr&count_private=true&&show_icons=true)
+<picture width="20px">
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=OlawaleJnr&show_icons=true&theme=yeblu&hide=contribs&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=OlawaleJnr&hide=contribs&count_private=true&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=OlawaleJnr&hide=contribs&count_private=true&show_icons=true&theme=yeblu" />
+</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlawaleJnr&langs_count=6 )](https://github.com/OlawaleJnr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlawaleJnr&langs_count=6&hide=css,less&hide_title=true&layout=compact )](https://github.com/OlawaleJnr/github-readme-stats)
 
 **languages and tools:**  
 
