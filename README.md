@@ -6,8 +6,8 @@ I'm keen on improving my skills on Java and PHP: Java SE, JSP/Servlet, Laravel a
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=OlawaleJnr" alt="Talabi Ayomide" /></p>
 
-- 🔭 I’m currently working on  **Advanced School Management System & Exam Screen API**
-- 🌱 I’m currently learning  **Flutter**
+- 🔭 I’m currently working on a product that manages a school system **(School Management System)**
+- 🌱 I’m currently learning  **Dart/Flutter Framework and PHP/Laravel**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Hmm.....
