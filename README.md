@@ -2,7 +2,7 @@
 
 ##### What I'm focusing on 👨‍💻
 
-I'm keen on improving my skills on Java and PHP: Java SE, JSP/Servlet, Laravel and Lumen Microservice.<br />
+I'm keen on improving my skills on Java and PHP: Java SE, JSP/Servlet, Laravel.<br />
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=OlawaleJnr" alt="Talabi Ayomide" /></p>
 
