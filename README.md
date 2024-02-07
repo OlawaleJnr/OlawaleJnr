@@ -2,7 +2,7 @@
 
 ##### What I'm focusing on 👨‍💻
 
-I'm keen on improving my skills on Dart and PHP <br />
+I'm keen on improving my skills on Dart, PHP and slicing Frontend UI <br />
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=OlawaleJnr" alt="Talabi Ayomide" /></p>
 
