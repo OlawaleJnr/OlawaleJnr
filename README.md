@@ -8,7 +8,7 @@
 
 <p align="left">
 <!-- <a href="https://sideguide.dev"><img src="https://img.shields.io/badge/-SideGuide website-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/nicolas-silberstein-camara"><img src="https://img.shields.io/badge/-Talabi Ayomide-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ayomide-talabi-b713451a3/"><img src="https://img.shields.io/badge/-Talabi Ayomide-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:flioolawale@gmail.com"><img src="https://img.shields.io/badge/-flioolawale@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
